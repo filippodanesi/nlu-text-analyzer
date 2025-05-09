@@ -2,7 +2,7 @@
 
 A minimalist text analysis tool powered by IBM Watson NLU, built with Streamlit. This application provides advanced natural language processing capabilities to extract metadata from text such as keywords, entities, categories, and relationships.
 
-![IBM Watson NLU Analyzer Screenshot](https://raw.githubusercontent.com/yourusername/ibm-nlu-analyzer/main/screenshot.png)
+![IBM Watson NLU Analyzer Screenshot](https://raw.githubusercontent.com/filippodanesi/nlu-text-analyzer/main/screenshot.png)
 
 ## Features
 
